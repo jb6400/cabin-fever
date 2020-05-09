@@ -71,22 +71,22 @@ button{
 }
 
 #b1:hover{
-  background-color: #f2db7c;
+  background-color: #fff4b0 ;
   opacity: 1;
 }
 
 #b2:hover{
-  background-color: #f2db7c;
+  background-color: #fff4b0 ;
   opacity: 1;
 }
 
 #b3:hover{
-  background-color: #f2db7c;
+  background-color: #fff4b0 ;
   opacity: 1;
 }
 
 #b4:hover{
-  background-color: #f2db7c;
+  background-color: #fff4b0 ;
   opacity: 1;
 }
 
@@ -142,11 +142,11 @@ h1{
 }
 
 .popup:hover{
-  color: #f2db7c;
+  color: #fff4b0 ;
 }
 
 a:hover{
-  color: #f2db7c;
+  color: #fff4b0 ;
 }
 
 .popuptext{
@@ -191,7 +191,7 @@ a:hover{
 }
 
 .content > .popup:hover{
-  color: #f2db7c;
+  color: #fff4b0 ;
 }
 
 .content > .popup{
