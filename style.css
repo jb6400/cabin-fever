@@ -188,6 +188,7 @@ a:hover{
   left: -50%;
   margin-left: -80px;
   opacity: 0.9;
+  border: solid #c7a083;
 }
 
 .content > .popup:hover{
